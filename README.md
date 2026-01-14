@@ -13,5 +13,6 @@ TanKonnection - https://implanic.itch.io/tankonnection
 
 
 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva
+
 Meu Linkedln: https://www.linkedin.com/in/mauricio-rodrigues-61963b325/
 
