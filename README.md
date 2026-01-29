@@ -1,5 +1,5 @@
 **HABILIDADES**
-[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,github,git)](https://skillicons.dev)
+[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
 
 Sou GameDeveloper com experiências na criação de jogos digitais usando a Godot, também tenho certa experiência na criação de PixelArt
 
