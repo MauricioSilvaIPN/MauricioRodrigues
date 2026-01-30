@@ -1,13 +1,13 @@
-**HABILIDADES:**
-[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
-
----
-
 **SOBRE MIM:**
 
 Sou GameDeveloper com experiências na criação de jogos digitais usando a Godot, também tenho certa experiência na criação de PixelArt<br>
 
 Você pode ver alguns projetos que estão no meu portfólio no link a seguir: https://sites.google.com/view/portfolio-mauricio-rodrigues/p%C3%A1gina-inicial?authuser=2
+
+---
+
+**HABILIDADES:**
+[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
 
 ---
 
