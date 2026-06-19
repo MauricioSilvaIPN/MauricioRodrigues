@@ -1,8 +1,9 @@
+## PT-BR
 **SOBRE MIM:**
 
-Sou GameDeveloper com experiências na criação de jogos digitais usando a Godot, também tenho certa experiência na criação de PixelArt<br>
+Sou GameDeveloper com experiências na criação de jogos digitais em 2D usando tanto a Godot quanto a Unity, também tenho certa experiência na criação de PixelArt<br>
 
-Você pode ver alguns projetos que estão no meu portfólio no link a seguir: https://sites.google.com/view/portfolio-mauriciorodrigues/in%C3%ADcio?authuser=2
+Você pode ver alguns projetos que estão no meu portfólio no link a seguir: [Link do portfólio](https://mauriciosilvaipn.github.io/)
 
 ---
 
@@ -15,9 +16,9 @@ Você pode ver alguns projetos que estão no meu portfólio no link a seguir: ht
 
 
 
-🎮 CatShooter - https://implanic.itch.io/catshooter<br>
+🎮 CatShooter - [Projeto](https://implanic.itch.io/catshooter)<br>
 
-🎮 TanKonnection - https://implanic.itch.io/tankonnection<br>
+🎮 TanKonnection - [Projeto](https://implanic.itch.io/tankonnection)<br>
 
 ---
 
@@ -25,5 +26,35 @@ Você pode ver alguns projetos que estão no meu portfólio no link a seguir: ht
 
 📩 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva@gmail.com<br>
 
-Meu Linkedln: https://www.linkedin.com/in/mauricio-rodrigues-61963b325/
+Meu Linkedln: [Link do Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
+
+---
+
+## EN-US
+**ABOUT ME:**
+
+I'm a GameDeveloper with experience creating 2D digital games using such Godot and Unity, I have such a experience with PixeArt too<br>
+You can see some projects each one inside my own portfolio: [Link do portfólio](https://mauriciosilvaipn.github.io/)
+
+---
+
+**SKILLS:**
+[![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
+
+---
+
+**👉 SOME PROJECTS**<br>
+
+
+🎮 CatShooter - [Projeto](https://implanic.itch.io/catshooter)<br>
+
+🎮 TanKonnection - [Projeto](https://implanic.itch.io/tankonnection)<br>
+
+---
+
+**CONTACT:**<br>
+
+📩 You can mail me: mauriciorodriguess.silva@gmail.com<br>
+
+My Linkedln: [Link do Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 
