@@ -3,7 +3,7 @@
 
 Sou GameDeveloper com experiências na criação de jogos digitais em 2D usando tanto a Godot quanto a Unity, também tenho certa experiência na criação de PixelArt<br>
 
-Você pode ver alguns projetos que estão no meu portfólio no link a seguir: [Link do portfólio](https://mauriciosilvaipn.github.io/)
+Você pode ver alguns projetos que estão no meu [portfólio](https://mauriciosilvaipn.github.io/)
 
 ---
 
@@ -16,9 +16,9 @@ Você pode ver alguns projetos que estão no meu portfólio no link a seguir: [L
 
 
 
-🎮 CatShooter - [Projeto](https://implanic.itch.io/catshooter)<br>
+🎮 CatShooter - [https://implanic.itch.io/catshooter](https://implanic.itch.io/catshooter)<br>
 
-🎮 TanKonnection - [Projeto](https://implanic.itch.io/tankonnection)<br>
+🎮 TanKonnection - [https://implanic.itch.io/tankonnection](https://implanic.itch.io/tankonnection)<br>
 
 ---
 
@@ -26,7 +26,7 @@ Você pode ver alguns projetos que estão no meu portfólio no link a seguir: [L
 
 📩 Você pode entrar em contato comigo pelo e-mail: mauriciorodriguess.silva@gmail.com<br>
 
-Meu Linkedln: [Link do Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
+Meu [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 
 ---
 
@@ -46,9 +46,9 @@ You can see some projects each one inside my own portfolio: [Link do portfólio]
 **👉 SOME PROJECTS**<br>
 
 
-🎮 CatShooter - [Projeto](https://implanic.itch.io/catshooter)<br>
+🎮 CatShooter - [https://implanic.itch.io/catshooter](https://implanic.itch.io/catshooter)<br>
 
-🎮 TanKonnection - [Projeto](https://implanic.itch.io/tankonnection)<br>
+🎮 TanKonnection - [https://implanic.itch.io/tankonnection](https://implanic.itch.io/tankonnection)<br>
 
 ---
 
@@ -56,5 +56,5 @@ You can see some projects each one inside my own portfolio: [Link do portfólio]
 
 📩 You can mail me: mauriciorodriguess.silva@gmail.com<br>
 
-My Linkedln: [Link do Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
+My [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 
