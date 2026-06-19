@@ -34,7 +34,7 @@ Meu [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 **ABOUT ME:**
 
 I'm a GameDeveloper with experience creating 2D digital games using such Godot and Unity, I have such a experience with PixeArt too<br>
-You can see some projects each one inside my own portfolio: [Link do portfólio](https://mauriciosilvaipn.github.io/)
+You can see some projects each one inside my own [portfolio](https://mauriciosilvaipn.github.io/)
 
 ---
 
