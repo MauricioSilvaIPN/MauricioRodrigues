@@ -20,16 +20,6 @@ I'm a GameDeveloper with experience creating 2D digital games using such Godot a
 
 ---
 
-### 👉 ALGUNS PROJETOS / SOME PROJECTS:<br>
-
-
-
-🎮 CatShooter - [https://implanic.itch.io/catshooter](https://implanic.itch.io/catshooter)<br>
-
-🎮 TanKonnection - [https://implanic.itch.io/tankonnection](https://implanic.itch.io/tankonnection)<br>
-
----
-
 ### CONTATO / CONTACT:<br>
 
 📩 E-mail: mauriciorodriguess.silva@gmail.com<br>
