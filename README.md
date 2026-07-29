@@ -15,7 +15,7 @@ I'm a GameDeveloper with experience creating 2D digital games using such Godot a
 
 ---
 
-### HABILIDADES / SKILLS:
+### TECNOLOGIAS / TECHNOLOGIES:
 [![**HABILIDADES**](https://skillicons.dev/icons?i=godot,unity,cs,github,git)](https://skillicons.dev)
 
 ---
