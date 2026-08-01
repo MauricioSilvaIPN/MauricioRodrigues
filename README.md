@@ -26,3 +26,5 @@ I'm a GameDeveloper with experience creating 2D digital games using such Godot a
 
 💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 
+Itch-io : [Itch.io](https://implanic.itch.io/)
+
