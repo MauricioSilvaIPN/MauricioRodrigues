@@ -22,7 +22,7 @@ I'm a GameDeveloper with experience creating 2D digital games using such Godot a
 
 ### CONTATO / CONTACT:<br>
 
-📩 E-mail: mauriciorodriguess.silva@gmail.com<br>
+📩 E-mail : mauriciorodriguess.silva@gmail.com<br>
 
 💼 Linkedin : [Linkedin](https://www.linkedin.com/in/mauricio-rodrigues-61963b325/)
 
