@@ -1,7 +1,7 @@
 ## PT-BR
 **SOBRE MIM:**
 
-Sou GameDeveloper com experiências na criação de jogos digitais em 2D usando tanto a Godot quanto a Unity, também tenho certa experiência na criação de PixelArt<br>
+Sou Gameplay Programmer focado no desenvolvimento de jogos 2D envolventes, fluídos e performáticos, desde protótipos rápidos até sistemas de mecânicas completos. Tenho experiência com as engines Godot e Unity, aplicando as melhores práticas de arquitetura e programação de jogos.
 
 
 ---
@@ -9,7 +9,7 @@ Sou GameDeveloper com experiências na criação de jogos digitais em 2D usando 
 ## EN-US
 **ABOUT ME:**
 
-I'm a GameDeveloper with experience creating 2D digital games using such Godot and Unity, I have such a experience with PixeArt too<br>
+I am a Gameplay Programmer focused on creating engaging, smooth, and performant 2D games, ranging from fast prototypes to complete gameplay systems. I have experience with both Godot and Unity engines, applying best practices in game architecture and programming.
 
 
 
